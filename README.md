@@ -50,5 +50,24 @@
              ![image](https://github.com/xiaola66/vMaker-/blob/master/img/importpile1.png)</br></br>
               <strong>20、自动生成目录</strong></br></br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/zidongshengcheng.png)</br></br>
-              <strong>2</strong></br></br>
-            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/main.png)</br></br>
+              <strong>图片展示功能</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/1.png)</br>
+             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/2.png)</br>
+              ![image](https://github.com/xiaola66/vMaker-/blob/master/img/3.png)</br>
+               ![image](https://github.com/xiaola66/vMaker-/blob/master/img/4.png)</br>
+                ![image](https://github.com/xiaola66/vMaker-/blob/master/img/5.png)</br>
+                 ![image](https://github.com/xiaola66/vMaker-/blob/master/img/6.png)</br>
+                  ![image](https://github.com/xiaola66/vMaker-/blob/master/img/7.png)</br>
+                   ![image](https://github.com/xiaola66/vMaker-/blob/master/img/8.png)</br>
+                    ![image](https://github.com/xiaola66/vMaker-/blob/master/img/9.png)</br>
+                     ![image](https://github.com/xiaola66/vMaker-/blob/master/img/10.png)</br>
+                      ![image](https://github.com/xiaola66/vMaker-/blob/master/img/11.png)</br>
+                             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/12.png)</br>
+                                    ![image](https://github.com/xiaola66/vMaker-/blob/master/img/13.png)</br>
+                             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/14.png)</br>
+                                    ![image](https://github.com/xiaola66/vMaker-/blob/master/img/15.png)</br>
+             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/16.png)</br>
+                    ![image](https://github.com/xiaola66/vMaker-/blob/master/img/17.png)</br>
+                           ![image](https://github.com/xiaola66/vMaker-/blob/master/img/18.png)</br>
+                                  ![image](https://github.com/xiaola66/vMaker-/blob/master/img/19.png)</br>
+                                         ![image](https://github.com/xiaola66/vMaker-/blob/master/img/20.png)</br>
