@@ -4,8 +4,6 @@
 利用react，redux，Material-UI，Node.js，webpack等前端技术开发的。
 包括企业管理人员界面（其中有公司管理、用户管理、日志管理 ；可以创建标注公司、任务分发人员、数据管理人员、企业审核人员、感知组组长）；数据管理人员界面（其中有创建项目、导入项目、项目管理、标注标签、数据管理）；分发人员界面（可以查看项目状态，并将项目分发给具体标注公司以及标注人员）；标注负责人界面（其中有项目管理、用户管理、日志管理；可以创建标注人员和标注审核人员）；标注人员界面（可以对项目图片进行标注）；标注审核人员界面（对标注人员提交的项目进行审核）；企业审核人员（对项目进行终审）；感知组组长（对数据管理人员的数据下载进行审核）</br></br>
 <strong>项目图展示：</strong><br/>
-<strong>1、系统主窗口</strong></br></br>
-            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/main.png)</br></br>
             <strong>1、系统主窗口</strong></br></br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/main.png)</br></br>
             <strong>2、登录</strong></br></br>
@@ -15,7 +13,7 @@
               ![image](https://github.com/xiaola66/vMaker-/blob/master/img/password1.png)</br></br>
             <strong>4、Dashboard仪表盘导航</strong></br></br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/Dashboard.png)</br></br>
-            <strong>5、用户管理</strong></br></br>
+            <strong>5、用户管理（包括以下功能）</strong></br></br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/usermanage.png)</br></br>
             <strong>6、创建</strong></br></br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/create.png)</br></br>
@@ -25,7 +23,32 @@
             <strong>8、停止</strong></br></br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/stop.png)</br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/stop1.png)</br></br>
-            <strong>1、系统主窗口</strong></br></br>
-            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/main.png)</br></br>
-            <strong>1、系统主窗口</strong></br></br>
+            <strong>9、启动</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/start.png)</br></br>
+            <strong>10、删除</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/deleted.png)</br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/deleted1.png)</br></br>
+              <strong>11、筛选</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/selected.png)</br></br>
+              <strong>12、公司管理（功能同上）</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/companymanage.png)</br></br>
+              <strong>13、数据管理</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/datamanage.png)</br></br>
+              <strong>14、刷新</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/shuaxin.png)</br></br>
+              <strong>15、创建目录</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/createsrc.png)</br></br>
+              <strong>16、导入数据</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/importdata.png)</br></br>
+              <strong>17、切换缩略图</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/qiehuantu1.png)</br>
+             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/qiehuantu2.png)</br></br>
+              <strong>18、添加子目录</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/addchild.png)</br></br>
+              <strong>19、导入文件</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/importpile.png)</br>
+             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/importpile1.png)</br></br>
+              <strong>20、自动生成目录</strong></br></br>
+            ![image](https://github.com/xiaola66/vMaker-/blob/master/img/zidongshengcheng.png)</br></br>
+              <strong>2</strong></br></br>
             ![image](https://github.com/xiaola66/vMaker-/blob/master/img/main.png)</br></br>
